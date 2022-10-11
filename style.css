@@ -1,0 +1,29 @@
+h1{
+	color:#8B0000;
+}
+h2{
+	color:#275396;
+}
+h3{
+	color:#0F3E4A;
+}
+h4{
+	color:#A64646;
+}
+h5{
+	color:#00868B;
+}
+h6{
+	color:#218B00;
+}
+paragraph{
+	color:#2DA4B4;
+}
+body{
+	background-color: #FD841F;
+	color: #555555;
+	
+}
+*{
+	align-content: center;
+}
